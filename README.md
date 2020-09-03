@@ -5,6 +5,7 @@ This study aims to examine the main topics of discussion on tweeter platform rel
 
 ## Code and Resources Used
 **Python Version:** 3.7
+
 **Packages:** 
 * Data Collection (Web Scraping): twitterscraper, twitterscraper, pickle
 * Data Cleaning: textblob, emoji
